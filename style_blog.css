@@ -641,8 +641,8 @@ a.btn-demo{text-decoration: none}
 
 .article-info-text{margin-top:15px;font-size:14px}
 
-.article-entry pre,.comment pre{margin:15px auto;font:12px/20px 'courier new';border:1px solid #ddd;border-left-width:4px;background:#fbfbfb;padding:10px 15px;}
-.comment pre{margin: 5px 0;color: green;}
+.article-entry pre,.comment pre{margin:15px auto;font:12px/20px 'courier new';border:1px solid green;border-left-width:4px;background:#fbfbfb;padding:10px 15px;}
+.comment pre{margin: 5px 0;color: #ddd;}
 .article-entry blockquote{margin:15px auto;border:1px solid #d6d6d6;border-left-width:3px;padding:10px 15px 5px;background-color:#fdfdfd;font-size: 12px;}
 .article-entry blockquote p{margin:0;padding:0;margin-bottom:5px;}
 
