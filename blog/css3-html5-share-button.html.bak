@@ -104,6 +104,11 @@ ul li:active{
 </div>
 
 
+<div class="hot">
+<a href="http://www.codeceo.com/article/good-programmer-need-7-skills.html" target="_blank" style="color:#000">
+    <div class="article-entry"><img src="http://www.codeceo.com/wp-content/uploads/2014/09/good-programmer-need-7-skills-2.jpg" alt="程序员逆袭应具备的7大技能" /></div>
+<h2>程序员逆袭应具备的7大技能</h2></a>
+</div>
 				<script src="../slider-content.js" type="text/javascript"></script>
 
 			</div>
