@@ -18,7 +18,7 @@
 				
 					<div class="article-entry" id="article_content">
 				<p>今天我们要利用CSS3来完成一款很酷的发光分享按钮，并将整理的演示以及源代码分享给大家，如果需要，你也可以将此CSS3分享按钮应用到自己的项目中去，也欢迎将此文分享给你的好友。下面先来看一看效果图</p>
-<p><a href="http://prettyflyer.github.io/css3-html5-share-button/index.html" target="_blank"><img class="aligncenter" src="http://www.codeceo.com/wp-content/uploads/2014/09/89c87cb30428416a2943b757bc3ee1b3.jpg" alt="css3-html5-share-button"></a></p>
+<p><a href="http://prettyflyer.github.io/css3-html5-share-button/index.html" target="_blank"><img class="aligncenter" src="http://prettyflyer.github.io/blog-image/css3-html5-share-button.jpg" alt="css3-html5-share-button"></a></p>
 <p style="text-align: center; font-size: 18px;"><strong>你可以在这里看到<a href="http://prettyflyer.github.io/css3-html5-share-button/index.html" target="_blank">DEMO演示</a></strong></p>
 <p>下面我们来分析一下实现的过程以及核心的源码，代码主要由HTML和CSS组成，应该说比较简单。</p>
 <h2>HTML代码：</h2>
