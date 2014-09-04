@@ -1,11 +1,4 @@
-﻿/* 
-	Theme Name: D-Simple
-	Theme URL: http://www.daqianduan.com/theme/d-simple/
-	Description: 大前端D-Simple主题（付费） 技术支持：<a href="http://www.daqianduan.com">大前端</a>
-	Author: 浩子
-	Author URI: http://www.daqianduan.com
-	Version: 1.2
-*/
+﻿
 @charset "utf-8";
 body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,code,del,dfn,em,img,strong,dd,dl,dt,li,ol,ul,fieldset,form,label,button,input,table,caption,tbody,tfoot,thead,tr,th,td,menu{margin:0;padding:0;}
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block}
@@ -649,7 +642,7 @@ a.btn-demo{text-decoration: none}
 .article-info-text{margin-top:15px;font-size:14px}
 
 .article-entry pre,.comment pre{margin:15px auto;font:12px/20px 'courier new';border:1px solid #ddd;border-left-width:4px;background:#fbfbfb;padding:10px 15px;}
-.comment pre{margin: 5px 0;color: #666;}
+.comment pre{margin: 5px 0;color: green;}
 .article-entry blockquote{margin:15px auto;border:1px solid #d6d6d6;border-left-width:3px;padding:10px 15px 5px;background-color:#fdfdfd;font-size: 12px;}
 .article-entry blockquote p{margin:0;padding:0;margin-bottom:5px;}
 
