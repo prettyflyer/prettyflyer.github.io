@@ -904,3 +904,39 @@ a.btn-demo{text-decoration: none}
 	.logo{float: none;margin: 0 auto;}
      .search-form,.header-menu{display: none}
 }
+
+
+.tricksButtons{
+text-align:center;
+}
+.tricksButtons a,.read-more a {
+margin-right: 16px;
+margin-bottom: 10px;
+display: inline-block;
+text-transform: uppercase;
+padding: 1em 1.5em 0.75em;
+border-radius: 2px;
+font-weight: bold;
+border: none;
+color: #fff !important;
+text-decoration: none;
+font-family: 'Open Sans Condensed',sans-serif;
+font-size: 14px;
+line-height: 1;
+cursor: pointer;
+}
+.tricksButtons a:hover,.read-more a:hover{
+opacity:0.9;
+}
+.tricksButtons .demo{
+font-size: 18px;
+padding: 1.2em 2.5em 1em;
+background-color: #f62446;
+box-shadow: 0 0 5px #a4cf6c inset, 0 1px 1px #eee;
+}
+.tricksButtons .download{
+font-size: 18px;
+padding: 1.2em 2.5em 1em;
+background-color: #18d837;
+box-shadow: 0 0 5px #8fcde7 inset, 0 1px 1px #eee;
+}
